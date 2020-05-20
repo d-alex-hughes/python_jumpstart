@@ -6,6 +6,13 @@ But we found a pretty solid runner-up data set that combines things that we all 
 
 # Data and Data Dictionary 
 
+The data is available here: 
+
+```
+import pandas as pd 
+df = pd.read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-10-29/nyc_squirrels.csv")
+```
+
 The data dictionary is available at [this page](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29). The meta-meta data -- you've been at Berkeley long enough that you can handle this -- is that this is a count-in-place census of the squirrels that are present in a NYC geom on a single day, at a single point in time. 
 
 There are several data features that are described in this data. Cruise over to the link, and check it out. 
