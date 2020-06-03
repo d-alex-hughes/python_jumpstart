@@ -34,7 +34,7 @@
 Goal: Create a git repository, start tracking files and checkout an earlier commit.
 
 6. Modify lunch.txt. 
-Use Vim to write what Parter A had for lunch today inside the lunch.txt file
+Use Vim to write what Partner A had for lunch today inside the lunch.txt file
   `vim lunch.txt`
   `i` enter insert mode 
   type and add the text you want to
@@ -106,7 +106,7 @@ We can also do this with echo and pipe commands we learned about yesterday.
   `git log --merge`
   `get diff`
   `git merge --abort`
-  
+
 ## Breakout 3 (groups of 2)
 1. Make a new branch with name "fav-din-branch"
   `git branch fav-din-branch`
